@@ -1,6 +1,6 @@
 package main
 
-import "github.com/codeedu/imersao/codepix-go/cmd"
+import "github.com/raphaom35/Codepix/cmd"
 
 func main() {
 	cmd.Execute()

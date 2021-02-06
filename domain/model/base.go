@@ -1,9 +1,9 @@
 package model
 
-import {
+import (
 	"time"
 	"github.com/asaskevich/govalidator"
-}
+)
 
 func init() {
 	govalidator.SetFieldsRequiredByDefault(true)
